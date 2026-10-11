@@ -11,9 +11,9 @@ Proyek ini juga mempelajari karakteristik sensor dan aktuator, koneksi antarkomp
 
 Focus Group 3 terdiri atas:
 
-1. **Khansa Dinda Arya Putri**
-2. **Raihan Maulana Heriandry**
-3. **Rayyan Emir Muhammad**
+1. **Khansa Dinda Arya Putri (2406496063)**
+2. **Raihan Maulana Heriandry (2406351024)**
+3. **Rayyan Emir Muhammad (2406345375)**
 
 ## Tujuan Proyek
 
